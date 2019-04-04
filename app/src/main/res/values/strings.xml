@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">studentApp</string>
+    <string name="title_activity_attendance_record">attendanceRecord</string>
 </resources>
